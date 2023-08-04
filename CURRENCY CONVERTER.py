@@ -32,24 +32,20 @@ def display_result(event):
 
 currencies = ["INR",
               "EUR",
-              "RUB",
-              "PKR",
               "USD", 
-              "IDR",
-              "HKD", 
+              "IDR", 
               "BGN", 
-              "GBP", 
-              "DKK",
-              "LKR",
-              "SGD", 
-              "AUD",
-              "CHF",
+              "GBP",
+              "DKK", 
               "CAD",
               "JPY", 
               "HUF", 
               "RON", 
               "MYR", 
-              "SEK"]
+              "SEK", 
+              "SGD", 
+              "AUD",
+              "CHF"] 
 
 # Define the window tkinter
 window = tkinter.Tk()
